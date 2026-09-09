@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/work/projects/bmi-track/build/cmake_install.cmake",
+		"C:/work/projects/bmi-track/build/glfw/cmake_install.cmake",
+		"C:/work/projects/bmi-track/build/glfw/src/cmake_install.cmake",
+		"C:/work/projects/bmi-track/build/glfw/docs/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
