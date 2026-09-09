@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\bmi-track.dir/objects.a
-"C:\Program Files\mingw64\bin\ar.exe" qc CMakeFiles\bmi-track.dir/objects.a @CMakeFiles\bmi-track.dir\objects1.rsp
-"C:\Program Files\mingw64\bin\c++.exe" -Wl,--whole-archive CMakeFiles\bmi-track.dir/objects.a -Wl,--no-whole-archive -o bin\bmi-track.exe -Wl,--out-implib,libbmi-track.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\bmi-track.dir\linkLibs.rsp
